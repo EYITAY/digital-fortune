@@ -276,9 +276,27 @@ export default function Home() {
                     name: "Logo",
                   },
                   {
-                    logo: "/logo/logo.png",
+                    logo: "/logo/flowify.png",
                     name: "Logo",
                   },
+                  {
+                    logo: "/logo/wtm.png",
+                    name: "Logo",
+                  },
+                  {
+                    logo: "/logo/educast.png",
+                    name: "Logo",
+                  },
+                  {
+                    logo: "/logo/cyberplanet.png",
+                    name: "Logo",
+                  },
+                  
+                  {
+                    logo: "/logo/flyteksystems.png",
+                    name: "Logo",
+                  },
+                 
                 ]}
               />
             </section>
@@ -368,7 +386,7 @@ export default function Home() {
       <section>
         <main className="md:flex items-center justify-center space-y-6 md:space-y-0 md:gap-x-20 xl:w-4/5 2xl:w-[68%] mx-auto px-6 md:px-0">
           <Image
-            src={"/logo/logo.png"}
+            src={"/images/chad.png"}
             width={10000}
             height={10000}
             className=" md:w-1/3 rounded-md"
