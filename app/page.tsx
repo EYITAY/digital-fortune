@@ -402,7 +402,7 @@ export default function Home() {
             </div>
 
             <span className="text-xl font-medium">
-              Chad, Fraser<br />
+              Chad, Frazer<br />
               CEO, Fly TekSystems
             </span>
           </div>
