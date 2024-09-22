@@ -1,7 +1,6 @@
 "use client"
 import Image from "next/image";
 import Link from "next/link";
-import { FaInstagram } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="bg-[#fafafa] py-10  px-6 md:px-0 md:mx-auto border-t">

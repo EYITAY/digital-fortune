@@ -1,7 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import { FaInstagram, FaTiktok, FaYoutube, FaPinterest } from "react-icons/fa";
-
 const ShowcaseNavbar = () => {
   return (
     <div
@@ -61,10 +59,6 @@ xl:w-4/5
             Guarentee
           </Link>
 
-          <FaInstagram />
-          <FaPinterest />
-          <FaYoutube />
-          <FaTiktok />
 
   
         </div>

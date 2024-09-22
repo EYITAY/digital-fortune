@@ -16,8 +16,6 @@ import { Link as ScrollLink, Element } from "react-scroll"
 import { IconStarFilled } from "@tabler/icons-react";
 import { ShootingStarsAndStarsBackgroundDemo } from "@/components/demos/shooting-stars-demo";
 import LetsMakeThingsHappenSection from "@/components/ui/lets-make-things-happen";
-import { FaInstagram, FaPinterest, FaTiktok,FaYoutube } from "react-icons/fa";
-
 
 
 
@@ -124,11 +122,7 @@ export default function Home() {
               
             </button>
           </a>
-          <FaInstagram />
-          <FaPinterest />
-          <FaYoutube />
-          <FaTiktok />
-
+        
 
           <Link
             href={"/meeting"}
@@ -464,11 +458,7 @@ export default function Home() {
             Privacy Policy
           </Link>
         
-          <FaInstagram />
-          <FaPinterest />
-          <FaYoutube />
-          <FaTiktok />
-
+        
 
 
 
