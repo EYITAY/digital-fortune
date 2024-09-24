@@ -17,6 +17,12 @@ const works = [
   },
   {
     background: "bg-gray-200",
+    imageUrl: "/images/formgenius.png",
+    title: "AI Form Generator| Form Genius",
+    link: "https://formgenius.vercel.app/ ",
+  },
+  {
+    background: "bg-gray-200",
     imageUrl: "/images/edcastr.png",
     title: "AI Web App | Edcastr",
     link: "https://edcastr.vercel.app/ ",
